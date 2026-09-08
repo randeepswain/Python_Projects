@@ -8,4 +8,4 @@ A simple Python project that simulates rolling two dice.
 - 🔄 Allows repeated dice rolls
 
 🛠️ Technologies Used
-Python
+- Python
